@@ -8,8 +8,6 @@ public class Guess {
         int high_range = 100;
         int guess = 50;
 
-        int a = 199/2;
-        System.out.println(a);
     
         System.out.println("Hello! Welcome to the guess game, where you think of a number from 1-1000 and I'll guess it after asking you a few questions...");
         System.out.println("Let's get started, think of a number from " + low_range + " to " + high_range + " and write it down... don't forget it!");
