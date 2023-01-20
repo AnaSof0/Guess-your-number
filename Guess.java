@@ -9,7 +9,7 @@ public class Guess {
         int guess = 50;
 
     
-        System.out.println("Hello! Welcome to the guess game, where you think of a number from 1-1000 and I'll guess it after asking you a few questions...");
+        System.out.println("Hello! Welcome to the guess game, where you think of a number from 1-100 and I'll guess it after asking you a few questions...");
         System.out.println("Let's get started, think of a number from " + low_range + " to " + high_range + " and write it down... don't forget it!");
         System.out.println("I'll ask if your number is equal to a number, higher (h) , or lower (l), write down yes if I guessed it, h if it's higer, or l if it's lower");
        
